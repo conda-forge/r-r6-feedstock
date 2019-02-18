@@ -1,7 +1,9 @@
+<!--
+# -*- mode: jinja -*-
+-->
+
 About r-r6
 ==========
-
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 
 Home: https://github.com/r-lib/R6/
 
@@ -50,6 +52,8 @@ conda search r-r6 --channel conda-forge
 
 About conda-forge
 =================
+
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 
 conda-forge is a community-led conda channel of installable packages.
 In order to provide high-quality builds, the process has been automated into the
@@ -110,5 +114,4 @@ Feedstock Maintainers
 =====================
 
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@ocefpaf](https://github.com/ocefpaf/)
 
