@@ -1,7 +1,7 @@
 About r-r6
 ==========
 
-Home: https://github.com/r-lib/R6/
+Home: https://r6.r-lib.org, https://github.com/r-lib/R6/
 
 Package license: MIT
 
