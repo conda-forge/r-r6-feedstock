@@ -5,11 +5,9 @@ Home: https://r6.r-lib.org, https://github.com/r-lib/R6/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-r6-feedstock/blob/master/LICENSE.txt)
 
 Summary: Creates classes with reference semantics, similar to R's built-in reference classes. Compared to reference classes, R6 classes are simpler and lighter-weight, and they are not built on S4 classes so they do not require the methods package. These classes allow public and private members, and they support inheritance, even when the classes are defined in different packages.
-
-
 
 Current build status
 ====================
